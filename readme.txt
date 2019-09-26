@@ -1,5 +1,6 @@
 This repository features all the scripts to reproduce the figures and run the models that were produced for:
 van Engelen et al. (2019), A three-dimensional palaeohydrogeological reconstruction of the groundwater salinity distribution in the Nile Delta Aquifer
+DOI: 10.5194/hess-2019-151
 
 To run the models, use the scripts in the folder "process".
 The jobscript Run_Model can be called to start the models, but you will likely need to update the paths in this script.
